@@ -29,7 +29,7 @@ VM은 ‘하이퍼바이저'를 이용해 하드웨어 자원을 가상화하는
 
 ### 1.1.2. 반가상화(Para Virtualization
 
-![Untitled](VirtualMachine.png)
+![Untitled](VirtualMachine/Untitled%202.png)
 
 - 게스트 OS를 일부 수정하여 필요한 하드웨어 자원을 직접 요구할 수 있음
 
@@ -39,7 +39,7 @@ VM은 ‘하이퍼바이저'를 이용해 하드웨어 자원을 가상화하는
 
 ## 1.2. 호스트
 
-![Untitled](VirtualMachine.png)
+![Untitled](VirtualMachine/Untitled%203.png)
 
 호스트형 하이퍼바이저는 일반적은 소프트웨어처럼 호스트 OS 위에서 실행된다. 하드웨어 자원을 VM 내부의 게스트 OS에 에뮬레이트 하는 방식이기 때문에 네이티브 방식에 비해 오버헤드가 크지만, 게스트 OS 종류에 대한 제약이 없고 데스킅놉 뿐 아니라 노트북에서도 운영할 수 있다.
 
@@ -47,7 +47,7 @@ VM은 ‘하이퍼바이저'를 이용해 하드웨어 자원을 가상화하는
 
 하이퍼바이저에 의해 구동되는 VM은 각 VM별로 독립된 가상의 자원을 할당받는다. VM은 논리적으로 분리되어 있어서 한 VM에 오류가 발생해도 다른 VM으로 확산되지 않는다는 장점이 있다.
 
-![Untitled](VirtualMachine.png)
+![Untitled](VirtualMachine/Untitled%204.png)
 
 ---
 
