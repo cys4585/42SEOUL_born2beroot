@@ -54,7 +54,7 @@ apt list
 
 ## 리눅스 패키지 설치 과정
 
-![[https://itsfoss.com/package-manager/](https://itsfoss.com/package-manager/)](apt,%20aptitude%20(%E1%84%91%E1%85%A2%E1%84%8F%E1%85%B5%E1%84%8C%E1%85%B5%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5%20%E1%84%83%E1%85%A9%E1%84%80%E1%85%AE)%20fb3c86a579874c30be657bcec32eb371/Untitled.png)
+![[https://itsfoss.com/package-manager/](https://itsfoss.com/package-manager/)](apt_aptitude/Untitled.png)
 
 [https://itsfoss.com/package-manager/](https://itsfoss.com/package-manager/)
 
