@@ -1,7 +1,9 @@
 # 3. Born2BeRoot
 
+## 과제 요구사항
 [subject translate (only Mandatory)](readme_child/subject%20translate%20(only%20Mandatory)%200f56c2f3bf8841e0a386263b1aee32ce.md)
 
+## 학습 정리
 [Virtual Machine (서버 가상화)](readme_child/VirtualMachine.md)
 
 [LVM (저장장치 관리)](readme_child/LVM.md)
@@ -22,6 +24,4 @@
 
 [cron & monitoring.sh](readme_child/cron%20&%20monitoring%20sh%209323e72a233d42a1bb7cce706c61efb9.md)
 
-[https://extrememanual.net/35625](https://extrememanual.net/35625)
-
-스냅샷
+[스냅샷](https://extrememanual.net/35625)
