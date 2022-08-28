@@ -3,7 +3,7 @@
 ## 과제 요구사항
 [subject translate (only Mandatory)](readme_child/subject%20translate%20(only%20Mandatory)%200f56c2f3bf8841e0a386263b1aee32ce.md)
 
-## 학습 정리
+## 학습 및 구현
 [Virtual Machine (서버 가상화)](readme_child/VirtualMachine.md)
 
 [LVM (저장장치 관리)](readme_child/LVM.md)
